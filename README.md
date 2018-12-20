@@ -1,2 +1,1 @@
-# opencv_tutorial
-Tutorial for opencv
+Tutorial for machine vision (using opencv)
